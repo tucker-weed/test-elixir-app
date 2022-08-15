@@ -21,4 +21,3 @@ defmodule KVS.BucketTest do
     assert KVS.Bucket.get(bucket, "real_key") == :bad_key_error
   end
 end
-
