@@ -1,0 +1,10 @@
+Important Commands
+
+Create a new module: mix new kv --module KV
+
+Compile module: cd <module_dir> && mix compile
+
+Enter project in interactive shell: iex -S mix
+
+Testing: mix test <optional_target_test>
+
