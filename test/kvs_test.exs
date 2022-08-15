@@ -1,4 +1,4 @@
-defmodule KVSTest do
+defmodule KVS.Test do
   use ExUnit.Case
   doctest KVS
 
