@@ -1,18 +1,5 @@
 defmodule KVS do
   @moduledoc """
-  Documentation for `KVS`.
+  Top-level module.
   """
-
-  @doc """
-  Hello world.
-
-  ## Examples
-
-      iex> KVS.hello()
-      :world
-
-  """
-  def hello do
-    :world
-  end
 end
